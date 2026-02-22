@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @tahamarham
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on coding back-end projects
+- 👋 Hi, I’m @tahamarham, An undergraduate Computer Science Student, and I am passionate to build new IT Solutions.
 - 📫 tahamarham@gmail.com
 
 <!---
