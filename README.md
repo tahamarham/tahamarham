@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahamarham, An undergraduate Computer Science Student, and I am passionate to build new IT Solutions.
+- 👋 Hi, I’m @tahamarham, a Computer Science undergraduate passionate about the full software development lifecycle — from building scalable applications to deploying and maintaining them in production.
 - 📫 tahamarham@gmail.com
 
 <!---
